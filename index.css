@@ -5,7 +5,7 @@
     background-color: red;
     display: flex;
     justify-content: space-between;
-    align-items: centerh;
+    align-items: center;
 }
 body{
     margin: 0;
@@ -24,4 +24,34 @@ body{
     height: 100px;
     background-color:black;
     border-radius: 50%;
+}
+.navbar1{
+    width: 100%;
+    height: 200px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.partie3
+{
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    border-radius: 10px;
+}
+.partie4
+{
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    border-radius: 10px;
+}
+.partie5
+{
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    border-radius: 10px;
 }
