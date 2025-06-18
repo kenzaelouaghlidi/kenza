@@ -1,4 +1,19 @@
 .maman{
     background-color: #19191B;
 }
-
+.r{
+    width: 30px;
+    height: 30px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbardroite h1{
+    color: #FFFFFF;
+}
+.navbardroite{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
