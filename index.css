@@ -3,8 +3,25 @@
     width: 100%;
     height: 200px;
     background-color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: centerh;
 }
 body{
     margin: 0;
     padding: 0;
+}
+.partie1
+{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+.partie2
+{
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    border-radius: 50%;
 }
